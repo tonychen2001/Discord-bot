@@ -1,5 +1,5 @@
 # NBA-bot
-A discord bot that displays the current real-time stats of NBA players.
+A discord bot that displays the current real-time stats of NBA players and their team.
 
 This is a node application.
 
