@@ -1,8 +1,7 @@
-// require the discord.js module
+// require the nba.js module
 const NBA = require("nba");
 
-
-
+// require the discord.js module
 const Discord = require('discord.js');
 const { prefix, token } = require('./config.json');
 // create a new Discord client
