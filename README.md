@@ -3,8 +3,13 @@ A discord bot that displays the current real-time stats of NBA players and their
 
 This is a node application.
 
-For setup:
+To use:
+BB 'player full name'
+For example:
+BB Kyle Lowry
 
+
+For setup:
 
 npm install discord.js
 
