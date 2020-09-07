@@ -5,6 +5,7 @@ This is a node application.
 
 To use:
 BB 'player full name'
+
 For example:
 BB Kyle Lowry
 
